@@ -1,7 +1,7 @@
-# skillify
+# skillify 🚀
 Bangkit Academy's 2023 Product Capstone Project
 
-Skillify:
+Skillify: <br />
 Tinder-like android application for 'recruiters' and 'job seekers' with a machine learning recommendation system.
 
 Team Member:
